@@ -7,4 +7,5 @@ Challenge #3 - Largest prime factor
 Challenge #4 - Largest palindrome product  
 Challenge #5 - Smallest Multiple   
 Challenge #6 - Sum square difference  
+Challenge #9 - Special Pythagorean triplet
 Challenge #65 - Convergents of e
